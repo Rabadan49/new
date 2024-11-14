@@ -1,0 +1,137 @@
+*{
+    box-sizing: border-box;
+}
+.wrapper{
+    min-height: 100%;
+    width: 100%;
+}
+.canteiner{
+    background: url(img/fon.png);
+    background-size: 100% 676px;
+    background-repeat: no-repeat;
+    height: 676px;
+}
+.header{
+    padding-top: 17px;
+    margin-left: 48px;
+    margin-right: 38px;
+    display: flex;
+    color: white;
+}
+#menu a{
+    width: 333px;
+    height: 26px;
+    color: white;
+    text-decoration: none;
+}
+.Brainwave{
+    height: 33px;
+    top: 4px;
+    font-size: 28px;
+    margin-top: 4px;
+    margin-bottom: 13px;
+}
+#menu{
+    margin: 13px 0 0 13px;   
+}
+#menu a{
+    margin-right: 35px;
+}
+.get__started{
+    text-align: center;
+    padding: 13px 0 16px 0;
+    width: 151px ;
+    height: 50px;
+    background: #473BF0;
+    border-radius: 8px;
+    border: 1px solid #473BF0;
+    margin-left: 610px;
+}
+.content{
+    width: 589px;
+    height: 349px;
+    margin-left: 15%;
+    margin-top: 177px;
+}
+.content h1{
+    width: 589px;
+    font-size: 60px;
+    line-height: 45px;
+    color: white;
+}
+.content p{
+    margin-top: 29px;
+    width: 450px;
+    opacity: 65%;
+    font-size: 19px;
+    line-height: 32px;
+    color: white;
+}
+.get__started2{
+    display: flex;
+    color: white;
+    border: 1px solid #473BF0;
+    border-radius: 8px;
+    background: #473BF0;
+    width: 200px;
+    padding: 13px 0 14px 20px ;
+}
+.get__started2 img{
+    width: 13px;
+    margin-left: 44px;
+}
+.interest{
+    margin-top: 80px;
+    display: flex;
+    width: 100%;
+    height: 134px;
+    justify-content: center;
+}
+.interest1{
+    display: flex;
+    width: 285px;
+    height: 58px;
+}
+.interest2{
+    display: flex;
+    width: 285px;
+    height: 58px;
+}
+.interest3{
+    display: flex;
+    width: 285px;
+    height: 58px;
+}
+.interest1 h1{
+    font-size: 48px;
+    font-weight: bold;
+}
+.interest2 h1{
+    font-size: 48px;
+    font-weight: bold;
+}
+.interest3 h1{
+    font-size: 48px;
+    font-weight: bold;
+}
+.interest1 p{
+    width: 174px;
+    font-size: 17px;
+    font-weight: 29px;
+    margin-top: 7px;
+    margin-left: 20px;
+}
+.interest2 p{
+    width: 174px;
+    font-size: 17px;
+    font-weight: 29px;
+    margin-top: 7px;
+    margin-left: 20px
+}
+.interest3 p{
+    width: 174px;
+    font-size: 17px;
+    font-weight: 29px;
+    margin-top: 7px;
+    margin-left: 20px
+}
